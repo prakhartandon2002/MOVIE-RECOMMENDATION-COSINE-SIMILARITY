@@ -17,4 +17,9 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 # Algorithm used for application
 ## Cosine similarity:
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
-
+## How does Cosine similarity works:
+Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
+![image](https://user-images.githubusercontent.com/92329235/170826257-835b4f1b-af1e-40be-9b65-66609e1fdba9.png)
+## Dataset
+I have used the TMDB 5000 movies dataset to build the model
+You can collect dataset from https://www.kaggle.com/tmdb/tmdb-movie-metadata
