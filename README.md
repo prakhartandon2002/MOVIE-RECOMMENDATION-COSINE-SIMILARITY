@@ -1,2 +1,3 @@
 # MOVIE-RECOMMENDATION-COSINE-SIMILARITY
 COSINE SIMILARITY
+![image](https://user-images.githubusercontent.com/92329235/170825564-68a1f24b-91b4-4aa7-b430-7d9d38630f42.png)
