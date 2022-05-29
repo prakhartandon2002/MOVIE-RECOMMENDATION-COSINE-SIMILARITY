@@ -11,7 +11,7 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 # HEROKU : for deploying a web application
 # tmdb3api : for showing Movie details
 # cosine similarity : for showing movie recommendation
-# Link to the working application
+# Link to the video
 CHECK OUT->
 # Snapshots of the application
 ![Screenshot (126)](https://user-images.githubusercontent.com/92329235/170825767-45890ff8-a1ec-4dd6-ab06-5d8dbabae675.png)
