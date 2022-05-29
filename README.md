@@ -9,6 +9,8 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 # PYTHON : for machine learning part
 # STREAMLIT: for building up a web application
 # HEROKU : for deploying a web application
+# tmdb3api : for showing Movie details
+# cosine similarity : for showing movie recommendation
 # Link to the working application
 CHECK OUT->
 # Snapshots of the application
