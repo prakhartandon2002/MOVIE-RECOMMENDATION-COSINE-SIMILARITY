@@ -16,7 +16,7 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 CHECK OUT-> https://youtu.be/lQF9fFNJG30
 
 # Link to the working application 
-CHECK OUT-> https://klpo.herokuapp.com/
+CHECK OUT-> https://ptflix.herokuapp.com/
 # Snapshots of the application
 ![Screenshot (126)](https://user-images.githubusercontent.com/92329235/170825767-45890ff8-a1ec-4dd6-ab06-5d8dbabae675.png)
 ![Screenshot (127)](https://user-images.githubusercontent.com/92329235/170825776-29548760-48aa-4efb-9200-c68e0aef17b1.png)
