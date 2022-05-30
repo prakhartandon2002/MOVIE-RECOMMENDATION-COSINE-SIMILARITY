@@ -31,3 +31,8 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ## Dataset
 I have used the TMDB 5000 movies dataset to build the model
 You can collect dataset from https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+## NOTE 
+Please download the file from link given below to run the program and save it in the repository
+
+https://drive.google.com/drive/folders/1zozuR_uU4JGqeNNHpeR0dLUIqj70efCI?usp=sharing
